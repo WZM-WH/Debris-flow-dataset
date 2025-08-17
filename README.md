@@ -1,5 +1,4 @@
 # Debris-flow-dataset
-Debris-Flow Dataset
 This repository provides a debris-flow (mudslide/landslide) image dataset for research in geohazard monitoring and computer vision object detection tasks.
 
 📂 Dataset Description
