@@ -28,9 +28,4 @@ The dataset is hosted via **Baidu Netdisk**:
 - **Link**: [Click to Download](https://pan.baidu.com/s/1evIFkVfAo204UHk1lFxZkg)  
 - **Password**: `day7`  
 
----
-
-## 📁 Folder Structure
-
-After extraction, the dataset is organized as follows:  
 
